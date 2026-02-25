@@ -1,2 +1,2 @@
 # Hotel-Webpage
-A responsive website built using HTML and CSS just for practice .
+A responsive hotel-webpage built using HTML and CSS just for practice .
